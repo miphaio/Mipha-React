@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "codecov",
+        "connor",
+        "Mipha",
+        "sudoo",
+        "triforce",
+        "WMXPY"
+    ],
+    "eslint.options": {
+        "overrideConfigFile": "./typescript/.eslintrc.json"
+    }
+}
