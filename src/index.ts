@@ -1,6 +1,6 @@
 /**
  * @author WMXPY
- * @namespace Mipha
+ * @namespace MiphaReact
  * @description Index
  */
 
